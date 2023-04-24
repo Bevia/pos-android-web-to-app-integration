@@ -1,1 +1,5 @@
-# pos-android-web-to-app-integration
+# android-deeplink
+
+#https://bevia.github.io/android-deeplink/
+
+
